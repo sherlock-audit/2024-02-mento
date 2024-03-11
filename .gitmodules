@@ -1,0 +1,18 @@
+[submodule "mento-core/lib/openzeppelin-contracts"]
+	path = mento-core/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "mento-core/lib/celo-foundry"]
+	path = mento-core/lib/celo-foundry
+	url = https://github.com/bowd/celo-foundry
+[submodule "mento-core/lib/openzeppelin-contracts-next"]
+	path = mento-core/lib/openzeppelin-contracts-next
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "mento-core/lib/openzeppelin-contracts-upgradeable"]
+	path = mento-core/lib/openzeppelin-contracts-upgradeable
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
+[submodule "mento-core/lib/forge-std-next"]
+	path = mento-core/lib/forge-std-next
+	url = https://github.com/foundry-rs/forge-std
+[submodule "mento-core/lib/safe-contracts"]
+	path = mento-core/lib/safe-contracts
+	url = https://github.com/safe-global/safe-contracts
